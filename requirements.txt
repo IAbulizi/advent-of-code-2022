@@ -5,3 +5,4 @@ pandas
 jupyter
 python-intervals
 anytree
+black
