@@ -6,3 +6,4 @@ jupyter
 python-intervals
 anytree
 black
+scipy
