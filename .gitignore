@@ -130,3 +130,6 @@ dmypy.json
 
 #Virtualenvs
 .venv*/
+
+#Demo notebooks
+*/_*.ipynb
