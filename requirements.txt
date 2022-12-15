@@ -8,3 +8,4 @@ anytree
 black
 igraph
 tqdm
+parse
